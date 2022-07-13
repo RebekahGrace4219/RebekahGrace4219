@@ -1,6 +1,6 @@
 ## Hi, I’m @RebekahGrace4219. 
  
-I am a Computer Science and Engineering Senior at University of California -Davis. A more detailed version of this information is available on my (Linkedin)[https://www.linkedin.com/in/rebekah-grace-2567b41a4/].
+I am a Computer Science and Engineering Senior at University of California -Davis. A more detailed version of this information is available on my [Linkedin](https://www.linkedin.com/in/rebekah-grace-2567b41a4/).
 
 # Internships
 
