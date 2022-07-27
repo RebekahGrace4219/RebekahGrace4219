@@ -1,6 +1,6 @@
 ## Hi, I’m @RebekahGrace4219. 
  
-I am a Computer Science and Engineering Senior at University of California -Davis. My [Linkedin](https://www.linkedin.com/in/rebekah-grace-2567b41a4/).
+I am a Computer Science and Engineering Senior at University of California - Davis. My [Linkedin](https://www.linkedin.com/in/rebekah-grace-2567b41a4/).
 
 # Internships
 ## Software Engineering Intern - Flatiron Health
@@ -9,9 +9,11 @@ This is currently ongoing, as it is a Summer Intern Program, and it ends in Sept
 ## Lecturer - UC Davis
 Technically, this is not an internship. I work for UC Davis as a student lecturer on ECS 98F: The Missing CS Quarter, which was inspired by a similar MIT course. Through my own internships and seeing my classmates, it was very clear that there were some skills that Software Engineers should have, but are not explicitly taught in core CS classes. For example, Regex, Git, Unit Testing, and Debugging are all units in this 10 week long class. I have re-written homework assignments, held office hours, and given lecures for the last 3 quarters (my junior year). It's a valuable way to get more experience in these concepts, while also enhancing my soft skills.
 
-## Web Developer/Data Science Intern - UC Davis
+## Web Developer/Data Science Intern - UC Davis ECO Team
+I worked for my University, analyzing their environmental data. I worked split between the web developement and data science team, which gave me a breadth of experience. I got the see the data pipeline from start to finish. For the data science team, I mostly focused on examining data and finding faults. Sometimes meters go down, and sometimes they are not properly aligned. The faster an anomaly is detected, the faster it can be fixed. I created a neural network model so the engineers could see detected anomalies with a User Interface. As a web developer intern, I also worked on multiple websites for the ECO team. There were internal facing websites, to show the board and managers that financial goals were being met. Additionally, I added features and bug fixes to student facing websites. Working at the ECO team taught me a lot about "Big Data" and the approaches we take with it. It was also a much larger and varied team than I had previously experienced. I worked with UI designeds, Front-End specific designsers, and Data Scienctists.
 
 ## Software Engineering Intern - UC Davis
+Working for Professor Matthew Butner, I lead a 3-intern team in developing a matching program for study groups. I designed the core algorithm, an alteration of the Stable Roommates problem. I assigned portions of the project and folded them into the real version. The program worked directly with the Canvas API to both make groups and notify students, so it was very easy to run. It was an excellent learning experience for working in a team. I was exposed to alternative perspectives and balanced timelines against additional added features. We were always trying to balance what features we could get in with the next release. The final project was presented to other CS Professors at Computer Education Research at Davis (CERD).
 
 # Personal Projects
 
