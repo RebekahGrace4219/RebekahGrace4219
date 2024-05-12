@@ -1,6 +1,5 @@
 ## Hi, I’m @RebekahGrace4219. 
- 
-I am a Computer Science and Engineering Senior at University of California - Davis. You can also visit my [Linkedin](https://www.linkedin.com/in/rebekah-grace-2567b41a4/).
+I am a Software Engineer at Flatiron Health. You can also visit my [Linkedin](https://www.linkedin.com/in/rebekah-grace-2567b41a4/).
 
 # Work Experience
 ## Software Engineer - Flatiron Health 
