@@ -33,7 +33,7 @@ Credit cards have been giving cash back offers and sign on bonuses for some time
 Credit Card Comparator is very easy to use. First, estimate your annual expenses in each of the categories. Then, check off the cards you already own from the list. Then, submit your response and wait for a comprehensive list.
 
 # Contact
-email: My school email is rmgrace@ucdavis.edu. I also use rebekahgrace234@gmail.com for recruiting, so either is fine. Please reach out if you have a position you're recruiting for or any questions.
+email: rebekahgrace234@gmail.com
 
 
 <!---
